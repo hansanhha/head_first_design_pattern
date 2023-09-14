@@ -5,25 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8eef7b8-643a-40a9-9338-5710a92ecc15" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/head-first-design-pattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter01/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter01/FlyBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter01/FlyNoWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter01/FlyRocketPowered.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter01/FlyWithWings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter01/MainDuckSimulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter01/Mallard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter01/ModelDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter01/MuteQuack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter01/Quack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter01/QuackBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter01/Squeak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter03/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter03/CondimentDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter03/DarkRoast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter03/Decaf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter03/Espresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter03/HouseBlend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter03/InputTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter03/LowerCaseInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter03/Mocha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter03/Soy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter03/StarbuzzCoffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter03/Whip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +37,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2VFrn3CP9wQGFD9ftsSOeqThhS8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -56,12 +52,14 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "chapter03",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
